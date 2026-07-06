@@ -1,5 +1,4 @@
-# cloud-ci-lab-project
-# Cloud CI Lab Project
+# Cloud CI LAB PROJECT
 
 ## Overview
 This project demonstrates a simple Cloud CI pipeline using GitHub Actions.  
@@ -10,6 +9,7 @@ The project follows GitOps principles by defining the CI pipeline as code using 
 ## Project Structure
 
 cloud-ci-lab-project/
+
 │── app.py  
 │── test_app.py  
 │── .github/workflows/ci.yml  
